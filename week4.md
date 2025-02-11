@@ -12,3 +12,5 @@ Once the weight sensor detects that the food has been placed inside the containm
 ### Planning
 
 ![Week 4 Block Diagram Rough Draft](week4_rough_draft_block.png)
+
+This is a rough draft of our block diagram that we will improve on when writing the proposal.
