@@ -8,3 +8,7 @@ Food containment unit is initially locked. Once specified 4 digit codes are inpu
 A 4 digit code is randomly generated upon weight sensor activation. This randomly generated code is intended for 1 time use.
 
 Once the weight sensor detects that the food has been placed inside the containment unit, the unit will lock.*
+
+### Planning
+
+![Week 4 Block Diagram Rough Draft](week4_rough_draft_block.png)
