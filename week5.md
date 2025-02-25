@@ -11,10 +11,8 @@ Started making changes that were reccomended by the TA's and professor for the d
 
 ![Week 5 Schematic Rough Draft](week5schematic.png)
 
-This is a rough draft of our block diagram that we will improve on when writing the proposal.
+This is what we have for the schematic so far it has the ESP 32, some of the power subsystems, and the keypad in it.
 
-We have also found parts that we might use in the PCB here is a link to it https://docs.google.com/document/d/1SWdd_iKvCoWNnZnPi8gho3ebCUdIYqPdJ7taNgwGFWw/edit?tab=t.0
-
-All of these parts are ones we might use, but we have to do more research on what exactly is needed.
-
-We have also learned that we need to use a wall plug with an AC to DC converter to power the whole PCB because of the heating
+We have been thinking about the logic of the heating system right now and what we have so for is the AND 3 things that enable 
+which can be set in the program that the user can change, a temperature to see if it is in the range of 25C - 40C, and also 
+see if there is a weight of 50 grams or more on the sensor.
