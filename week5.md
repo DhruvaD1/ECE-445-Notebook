@@ -1,11 +1,11 @@
-# Week 4
+# Week 5
 
 ### Overview
 *Started making the schematic for the PCB
 
 Presented the proposal to TA's and professor
 
-Started making changes that were reccomended by the TA's and professor for the design*
+Started making changes that were recommended by the TA's and professor for the design*
 
 ### Planning
 
